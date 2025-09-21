@@ -22,25 +22,9 @@
     "decimals": 18,
     "logoURI": "https://coin.top/profile_images/JKtJTydD_400x400.jpg",
     "homepage": "https://ficshos.github.io/tetheredtoken/",
-    "MarketCapLink": "https://coinmarketcap.com/currencies/wink/",
     "existingMarkets": [
         {
             "source": "Binance",
-            "pairs": [
-                "MTT/USDT",
-                "MTT/BUSD",
-                "MTT/BNB",
-                "MTT/USDC"
-            ]
-        },
-        {
-            "source": "Poloniex",
-            "pairs": [
-                "MTT/USDT"
-            ]
-        },
-        {
-            "source": "KuCoin",
             "pairs": [
                 "MTT/USDT"
             ]
